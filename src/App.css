@@ -1,0 +1,17 @@
+.container {
+    padding: 30px;
+}
+
+label {
+    padding-right: 15px;
+}
+
+input {
+    margin-right: 15px;
+}
+
+p {
+    display: inline-block;
+    width: 100px;
+    padding-right: 50px;
+}
